@@ -1,0 +1,14 @@
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilos/AppConHilos1/bin/Debug/net8.0/AppConHilos1
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilos/AppConHilos1/bin/Debug/net8.0/AppConHilos1.deps.json
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilos/AppConHilos1/bin/Debug/net8.0/AppConHilos1.runtimeconfig.json
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilos/AppConHilos1/bin/Debug/net8.0/AppConHilos1.dll
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilos/AppConHilos1/bin/Debug/net8.0/AppConHilos1.pdb
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilos/AppConHilos1/obj/Debug/net8.0/AppConHilos1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilos/AppConHilos1/obj/Debug/net8.0/AppConHilos1.AssemblyInfoInputs.cache
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilos/AppConHilos1/obj/Debug/net8.0/AppConHilos1.AssemblyInfo.cs
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilos/AppConHilos1/obj/Debug/net8.0/AppConHilos1.csproj.CoreCompileInputs.cache
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilos/AppConHilos1/obj/Debug/net8.0/AppConHilos1.dll
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilos/AppConHilos1/obj/Debug/net8.0/refint/AppConHilos1.dll
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilos/AppConHilos1/obj/Debug/net8.0/AppConHilos1.pdb
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilos/AppConHilos1/obj/Debug/net8.0/AppConHilos1.genruntimeconfig.cache
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilos/AppConHilos1/obj/Debug/net8.0/ref/AppConHilos1.dll
